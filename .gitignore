@@ -4,6 +4,7 @@ xTest.Pickle
 xTrain.Pickle
 yTest.Pickle
 yTrain.Pickle
+imagesProcessedPickles
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
